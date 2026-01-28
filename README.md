@@ -1,25 +1,25 @@
 # Java Learning Journey ☕
 
-Repository ini berisi **catatan dan latihan pribadi saya dalam mempelajari bahasa pemrograman Java**.  
-Struktur folder dan commit history dibuat untuk merepresentasikan **progres belajar saya secara bertahap**, mulai dari fundamental hingga mini project berbasis CLI.
+This repository contains **my personal notes and exercises while learning the Java programming language**.  
+The folder structure and commit history are designed to represent my **step-by-step learning progress**, from fundamentals to CLI-based mini projects.
 
 ---
 
 ## 🎓 Learning Source
 
-Saya belajar Java dari video **Java Tutorial for Beginners – Full Course (12 Hours)**  
-oleh channel YouTube **Bro Code**.
+I am learning Java from the video **Java Tutorial for Beginners – Full Course (12 Hours)**  
+by the YouTube channel **Bro Code**.
 
 🔗 Video:  
 https://youtu.be/xTtL8E4LzTQ
 
-Video ini mencakup Java dari dasar hingga topik lanjutan seperti OOP, Collections, File I/O, dan Multithreading.
+This video covers Java from the basics to more advanced topics such as OOP, Collections, File I/O, and Multithreading.
 
 ---
 
 ## 📚 Learning Progress
 
-Materi yang **sudah dipelajari dan dipraktikkan** sejauh ini:
+Topics that have been **studied and practiced** so far:
 
 ### ✅ Basic Java & Control Flow
 - Introduction to Java
@@ -57,7 +57,7 @@ Materi yang **sudah dipelajari dan dipraktikkan** sejauh ini:
 
 ## 🧪 Mini Projects (CLI)
 
-Mini projects yang sudah dibuat berdasarkan materi di atas:
+Mini projects created based on the topics above:
 
 - Mad Libs Game
 - Shopping Cart Program
@@ -71,16 +71,16 @@ Mini projects yang sudah dibuat berdasarkan materi di atas:
 - Quiz Game
 - Rock Paper Scissors (**on progress**)
 
-⭐ Mini projects ditandai sebagai latihan penerapan logika, control flow, dan struktur data dasar Java.
+⭐ Mini projects are used as exercises to apply Java logic, control flow, and basic data structures.
 
 ---
 
 ## 🚧 Current Status
 
-- Progress video: **± 47% (hingga Rock Paper Scissors – on progress)**
-- Fokus saat ini:  
-  - Memperkuat logika dasar  
-  - Membiasakan struktur program Java  
+- Video progress: **± 47% (up to Rock Paper Scissors – on progress)**
+- Current focus:  
+  - Strengthening fundamental logic  
+  - Getting familiar with Java program structure  
 
 ### ⏭️ Next Topics
 - Object-Oriented Programming (OOP)
@@ -94,9 +94,9 @@ Mini projects yang sudah dibuat berdasarkan materi di atas:
 
 ## 📁 Repository Structure
 
-Setiap folder merepresentasikan **satu topik pembelajaran** atau **satu mini project**.
+Each folder represents **one learning topic** or **one mini project**.
 
-Struktur umum:
+General structure:
 
 ```text
 topic-name/
@@ -121,6 +121,6 @@ topic-name/
 
 ## 📌 Notes
 
-- Repository ini dibuat sebagai **personal learning repository**
-- Source code ditulis sendiri berdasarkan pemahaman dari materi
-- Repository akan terus diperbarui seiring progres belajar
+- This repository is intended as a **personal learning repository**
+- All source code is written based on my own understanding of the material
+- The repository will be continuously updated as my learning progresses
