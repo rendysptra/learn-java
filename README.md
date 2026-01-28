@@ -114,10 +114,12 @@ topic-name/
 ## 🛠️ Tools & Environment
 
 - Language: Java
-- JDK: OpenJDK
-- Editor: Visual Studio Code
-- OS: Linux
-- Version Control: Git & GitHub
+- JDK: OpenJDK 25.0.1
+- Compiler: javac 25.0.1
+- Editor: Visual Studio Code 1.108.2
+- OS: Zorin OS 18 (Linux, kernel 6.14.0-37-generic)
+- Shell: Zsh 5.9
+- Version Control: Git 2.52.0 & GitHub
 
 ---
 
