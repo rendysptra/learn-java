@@ -68,15 +68,16 @@ Mini projects yang sudah dibuat berdasarkan materi di atas:
 - Number Guessing Game
 - Banking Program
 - Dice Roller Program
-- Quiz Game (**on progress**)
+- Quiz Game
+- Rock Paper Scissors (**on progress**)
 
-⭐ Mini projects ditandai sebagai latihan penerapan logika dan sintaks Java.
+⭐ Mini projects ditandai sebagai latihan penerapan logika, control flow, dan struktur data dasar Java.
 
 ---
 
 ## 🚧 Current Status
 
-- Progress video: **± 45% (hingga Quiz Game)**
+- Progress video: **± 47% (hingga Rock Paper Scissors – on progress)**
 - Fokus saat ini:  
   - Memperkuat logika dasar  
   - Membiasakan struktur program Java  
