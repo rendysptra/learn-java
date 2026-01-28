@@ -69,7 +69,8 @@ Mini projects created based on the topics above:
 - Banking Program
 - Dice Roller Program
 - Quiz Game
-- Rock Paper Scissors (**on progress**)
+- Rock Paper Scissors
+- Slot Machine (**on progress**)
 
 ⭐ Mini projects are used as exercises to apply Java logic, control flow, and basic data structures.
 
@@ -77,12 +78,13 @@ Mini projects created based on the topics above:
 
 ## 🚧 Current Status
 
-- Video progress: **± 47% (up to Rock Paper Scissors – on progress)**
+- Video progress: **± 50% (up to Rock Paper Scissors – completed)**
 - Current focus:  
   - Strengthening fundamental logic  
   - Getting familiar with Java program structure  
 
 ### ⏭️ Next Topics
+- Slot Machine (Mini Project)
 - Object-Oriented Programming (OOP)
 - Constructors
 - Inheritance & Polymorphism
