@@ -78,13 +78,13 @@ Mini projects created based on the topics above:
 
 ## 🚧 Current Status
 
-- Video progress: **± 50% (up to Rock Paper Scissors – completed)**
+- Video progress: **± 52% (up to Slot Machine – on progress)**
 - Current focus:  
-  - Strengthening fundamental logic  
-  - Getting familiar with Java program structure  
+  - Applying control flow and randomness in CLI programs  
+  - Improving problem-solving with Java logic    
 
 ### ⏭️ Next Topics
-- Slot Machine (Mini Project)
+- Slot Machine (Mini Project – in progress)
 - Object-Oriented Programming (OOP)
 - Constructors
 - Inheritance & Polymorphism
