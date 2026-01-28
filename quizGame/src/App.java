@@ -22,26 +22,66 @@ public class App {
             {"a. Only the User Interface", "b. Only Application Installation", "c. Hardware and Software resources", "d. Only Network Connection"},
             {"a. Python", "b. Machine Code", "c. Microcode", "d. Assembly is the Only Correct answer"}
         };
-        int chooseAnswer;
-        int grade;
+        char[] answerKey = {
+            'd',
+            'd',
+            'c',
+            'c',
+            'a'
+        };
+        char chooseAnswer;
+        int score = 0;
+        boolean isValid = false;
+
+        System.out.println("=========");
+        System.out.println("QUIZ GAME");
+        System.out.println("=========");
+
 
         for(int i = 0; i < questions.length; i++){
+            isValid = false;
             System.out.println(questions[i]);
 
             for(int j = 0; j < answers[i].length; j++){
                 System.out.println(answers[i][j]);
             }
-            System.out.println();
-            
+    
+            do {
+                System.out.print("Choose your answer: ");
+                chooseAnswer = Character.toLowerCase(scanner.next().charAt(0));
+                isValid = checkValidOption(chooseAnswer);
+            } while (!isValid);
+
+            if (checkAnswer(chooseAnswer, answerKey[i])) {
+                score++;
+            }
+
         }
 
-        // show question
-
-        // input answer
-
-        // process answer (right / wrong)
-
-        // show grade
+        System.out.printf("Your score is: %d/%d\n", score, questions.length);
         
+        scanner.close();
+    }
+
+    static boolean checkValidOption(char answer){
+        if (answer >= 'a' && answer <= 'd') {
+            return true;
+        }
+        System.out.println("Invalid option, try again!");
+        return false;
+    }
+
+    static boolean checkAnswer(char answer, char answerKey){
+        if (answer == answerKey) {
+            System.out.println("=========");
+            System.out.println("Correct!");
+            System.out.println("=========");
+            return true;
+        } else{
+            System.out.println("=========");
+            System.out.println(" Wrong!");
+            System.out.println("=========");
+            return false;
+        }
     }
 }
