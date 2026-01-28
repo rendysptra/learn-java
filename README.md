@@ -96,10 +96,13 @@ Mini projects yang sudah dibuat berdasarkan materi di atas:
 Setiap folder merepresentasikan **satu topik pembelajaran** atau **satu mini project**.
 
 Struktur umum:
+
+```text
 topic-name/
 ├── src/
-│ └── App.java
+│   └── App.java
 └── README.md
+```
 
 > README di dalam folder dibuat otomatis oleh Java / VS Code tooling.
 
