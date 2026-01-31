@@ -3,6 +3,10 @@
 bin/
 lib/
 
+# Auto-generated README.md
+*/README.md
+*/*/README.md
+
 # OS
 .DS_Store
 
