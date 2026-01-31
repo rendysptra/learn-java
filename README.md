@@ -56,7 +56,8 @@ Topics that have been **studied and practiced** so far:
 ### 🚧 Object-Oriented Programming
 - Attributes
 - Methods
-- Constructors **(In Progress 🛠️)**
+- Constructors
+- Overloaded Constructors **(In Progress 🛠️)**
 
 ---
 
@@ -83,17 +84,17 @@ Mini projects created based on the topics above:
 
 ## 🚧 Current Status
 
-- Video progress: **± 57% (up to Object-oriented Programming – completed)**
+- Video progress: **± 57% (up to Constructors – completed)**
 - Current focus:  
   - Starting Object-Oriented Programming (OOP) concepts  
   - Understanding classes, objects, and basic class structure        
 
 ### ⏭️ Next Topics
-- Overloaded Constructors 
 - Array of Objects
 - Static
 - Inheritance
 - Super
+- method overriding
 
 ---
 
