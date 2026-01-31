@@ -53,6 +53,10 @@ Topics that have been **studied and practiced** so far:
 - Varargs
 - 2D Arrays
 
+### 🚧 Object-Oriented Programming (In Progress)
+- Classes
+- Objects
+
 ---
 
 ## 🧪 Mini Projects (CLI)
@@ -70,7 +74,7 @@ Mini projects created based on the topics above:
 - Dice Roller Program
 - Quiz Game
 - Rock Paper Scissors
-- Slot Machine (**on progress**)
+- Slot Machine
 
 ⭐ Mini projects are used as exercises to apply Java logic, control flow, and basic data structures.
 
@@ -78,19 +82,15 @@ Mini projects created based on the topics above:
 
 ## 🚧 Current Status
 
-- Video progress: **± 52% (up to Slot Machine – on progress)**
+- Video progress: **± 55% (up to Slot Machine – completed)**
 - Current focus:  
-  - Applying control flow and randomness in CLI programs  
-  - Improving problem-solving with Java logic    
+  - Starting Object-Oriented Programming (OOP) concepts  
+  - Understanding classes, objects, and basic class structure        
 
 ### ⏭️ Next Topics
-- Slot Machine (Mini Project – in progress)
-- Object-Oriented Programming (OOP)
 - Constructors
-- Inheritance & Polymorphism
-- Collections
-- File I/O
-- Exception Handling
+- Overloaded Constructors 
+- Array of Objects 🗃️
 
 ---
 
