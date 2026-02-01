@@ -64,7 +64,8 @@ Topics that have been **studied and practiced** so far:
 - Super
 - Method Overriding 
 - tostring Method 
-- Abstraction **(In Progress 🛠️)**
+- Abstraction 
+- Interfaces **(In Progress 🛠️)**
 
 ---
 
@@ -91,17 +92,17 @@ Mini projects created based on the topics above:
 
 ## 🚧 Current Status
 
-- Video progress: **± 66% (Up to Abstraction – In Progress 🛠️)**
+- Video progress: **± 67% (Up to Interfaces – In Progress 🛠️)**
 - Current focus:  
   - Starting Object-Oriented Programming (OOP) concepts  
   - Understanding classes, objects, and basic class structure        
 
 ### ⏭️ Next Topics
-- Interfaces
 - Polymorphism
 - Runtime Polymorphism
 - Getters and Setters
 - Aggregation
+- Composition
 
 ---
 
