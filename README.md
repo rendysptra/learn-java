@@ -59,7 +59,8 @@ Topics that have been **studied and practiced** so far:
 - Constructors
 - Overloaded Constructors 
 - Array of Objects 
-- Static **(In Progress 🛠️)**
+- Static 
+- Inheritance **(In Progress 🛠️)**
 
 ---
 
@@ -86,17 +87,17 @@ Mini projects created based on the topics above:
 
 ## 🚧 Current Status
 
-- Video progress: **± 60% (Static – In Progress 🛠️)**
+- Video progress: **± 61% (Inheritance – In Progress 🛠️)**
 - Current focus:  
   - Starting Object-Oriented Programming (OOP) concepts  
   - Understanding classes, objects, and basic class structure        
 
 ### ⏭️ Next Topics
-- Inheritance
 - Super
 - method Overriding
 - Tostring Method 
 - Abstraction
+- Interfaces
 
 ---
 
