@@ -65,7 +65,8 @@ Topics that have been **studied and practiced** so far:
 - Method Overriding 
 - tostring Method 
 - Abstraction 
-- Interfaces **(In Progress 🛠️)**
+- Interfaces 
+- Polymorphism **(In Progress 🛠️)**
 
 ---
 
@@ -92,17 +93,17 @@ Mini projects created based on the topics above:
 
 ## 🚧 Current Status
 
-- Video progress: **± 67% (Up to Interfaces – In Progress 🛠️)**
+- Video progress: **± 68% (Up to Polymorphism – In Progress 🛠️)**
 - Current focus:  
   - Starting Object-Oriented Programming (OOP) concepts  
   - Understanding classes, objects, and basic class structure        
 
 ### ⏭️ Next Topics
-- Polymorphism
 - Runtime Polymorphism
 - Getters and Setters
 - Aggregation
 - Composition
+- Wrapper Classes
 
 ---
 
