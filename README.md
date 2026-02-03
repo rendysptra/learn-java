@@ -86,6 +86,7 @@ Mini projects created based on the topics above:
 - Quiz Game
 - Rock Paper Scissors
 - Slot Machine
+- Student Management System
 
 ⭐ Mini projects are used as exercises to apply Java logic, control flow, and basic data structures.
 
